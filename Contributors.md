@@ -6,6 +6,7 @@
 - [Viraj Parikh](https://github.com/VirajYParikh)
 FranciscoFB7
 - [Jesreel](https://github.com/JesCodeMar)
+- [Hemanth Rachapalli](https://github.com/hemanth5544)
 - [Gerry Aballa](https://github.com/Gerry-Aballa)
 - [Akash Raj](https://github.com/akashroshiv)
 - [Christopher Semler](https://github.com/SEM7AC)
